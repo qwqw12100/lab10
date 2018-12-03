@@ -10,7 +10,7 @@ int tempread(char *device, int verbose);
 void usage();
 
 #define  BUFSIZE  128
-char *device = "28-0318418cc6ff";
+char *device = "28-021313ce22aa";
 int verbose = 0;
 
 int main(int argc, char *argv[])
